@@ -3,14 +3,22 @@ import java.util.Arrays;
 class Solution {
     public int findDuplicate(int[] nums) {
 
-        Arrays.sort(nums);
+        int slow=0;
+        int fast=0;
+        do{
+            slow=nums[slow];
+            fast=nums[nums[fast]];
 
-        for(int i = 1; i < nums.length; i++) {
-            if(nums[i] == nums[i - 1]) {
-                return nums[i];
-            }
         }
+        while(slow!=fast);
 
-        return -1;
+    
+    slow=0;
+    while(slow!=fast){
+        slow=nums[slow];
+        fast=nums[fast];
+
     }
+    return slow;
+}
 }
