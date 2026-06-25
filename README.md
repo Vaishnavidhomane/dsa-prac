@@ -25,6 +25,7 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaishnavidhomane/first-demo/tree/main/0014-longest-common-prefix/) | Easy |
+| [0053-maximum-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0136-single-number/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavidhomane/first-demo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -90,6 +91,7 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -113,4 +115,8 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavidhomane/first-demo/tree/main/0238-product-of-array-except-self/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
