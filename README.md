@@ -26,6 +26,7 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaishnavidhomane/first-demo/tree/main/0014-longest-common-prefix/) | Easy |
 | [0053-maximum-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0053-maximum-subarray/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavidhomane/first-demo/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -35,6 +36,7 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vaishnavidhomane/first-demo/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Vaishnavidhomane/first-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -121,4 +123,8 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0053-maximum-subarray/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
