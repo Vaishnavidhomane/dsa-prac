@@ -80,6 +80,7 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Vaishnavidhomane/first-demo/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/Vaishnavidhomane/first-demo/tree/main/0176-second-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/Vaishnavidhomane/first-demo/tree/main/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/Vaishnavidhomane/first-demo/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Vaishnavidhomane/first-demo/tree/main/0596-classes-with-at-least-5-students/) | Easy |
