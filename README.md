@@ -34,6 +34,7 @@ Author - Vaishnavi Dhomane
 | [0238-product-of-array-except-self](https://github.com/Vaishnavidhomane/first-demo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Vaishnavidhomane/first-demo/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Vaishnavidhomane/first-demo/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaishnavidhomane/first-demo/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -140,5 +141,6 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaishnavidhomane/first-demo/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Vaishnavidhomane/first-demo/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaishnavidhomane/first-demo/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
