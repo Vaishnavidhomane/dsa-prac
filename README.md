@@ -9,6 +9,7 @@ Author - Vaishnavi Dhomane
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavidhomane/first-demo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Vaishnavidhomane/first-demo/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Vaishnavidhomane/first-demo/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/0020-valid-parentheses/) | Easy |
@@ -93,6 +94,7 @@ Author - Vaishnavi Dhomane
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavidhomane/first-demo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vaishnavidhomane/first-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vaishnavidhomane/first-demo/tree/main/0217-contains-duplicate/) | Easy |
@@ -140,6 +142,7 @@ Author - Vaishnavi Dhomane
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavidhomane/first-demo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaishnavidhomane/first-demo/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavidhomane/first-demo/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaishnavidhomane/first-demo/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
