@@ -50,6 +50,7 @@ Author - Vaishnavi Dhomane
 | [0141-linked-list-cycle](https://github.com/Vaishnavidhomane/first-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -60,6 +61,7 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Vaishnavidhomane/first-demo/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Vaishnavidhomane/first-demo/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -106,6 +108,7 @@ Author - Vaishnavi Dhomane
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavidhomane/first-demo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vaishnavidhomane/first-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaishnavidhomane/first-demo/tree/main/0217-contains-duplicate/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
