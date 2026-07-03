@@ -81,6 +81,7 @@ Author - Vaishnavi Dhomane
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vaishnavidhomane/first-demo/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vaishnavidhomane/first-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Vaishnavidhomane/first-demo/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Vaishnavidhomane/first-demo/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishnavidhomane/first-demo/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -88,6 +89,7 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Vaishnavidhomane/first-demo/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Vaishnavidhomane/first-demo/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/Vaishnavidhomane/first-demo/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
