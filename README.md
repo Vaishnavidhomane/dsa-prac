@@ -42,6 +42,7 @@ Author - Vaishnavi Dhomane
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Vaishnavidhomane/first-demo/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavidhomane/first-demo/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vaishnavidhomane/first-demo/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaishnavidhomane/first-demo/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -60,6 +61,7 @@ Author - Vaishnavi Dhomane
 | [0344-reverse-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishnavidhomane/first-demo/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaishnavidhomane/first-demo/tree/main/0217-contains-duplicate/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
