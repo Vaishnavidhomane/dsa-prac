@@ -38,6 +38,7 @@ Author - Vaishnavi Dhomane
 | [0136-single-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Vaishnavidhomane/first-demo/tree/main/0162-find-peak-element/) | Medium |
+| [0189-rotate-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaishnavidhomane/first-demo/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vaishnavidhomane/first-demo/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavidhomane/first-demo/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -60,6 +61,7 @@ Author - Vaishnavi Dhomane
 | [0141-linked-list-cycle](https://github.com/Vaishnavidhomane/first-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/0344-reverse-string/) | Easy |
@@ -72,6 +74,7 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Vaishnavidhomane/first-demo/tree/main/0050-powx-n/) | Medium |
+| [0189-rotate-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Vaishnavidhomane/first-demo/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
