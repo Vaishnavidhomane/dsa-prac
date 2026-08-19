@@ -33,6 +33,7 @@ Author - Vaishnavi Dhomane
 | [0027-remove-element](https://github.com/Vaishnavidhomane/first-demo/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Vaishnavidhomane/first-demo/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Vaishnavidhomane/first-demo/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0136-single-number/) | Easy |
@@ -75,6 +76,7 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/Vaishnavidhomane/first-demo/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Vaishnavidhomane/first-demo/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0202-happy-number/) | Easy |
@@ -187,4 +189,8 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Vaishnavidhomane/first-demo/tree/main/0042-trapping-rain-water/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Vaishnavidhomane/first-demo/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
