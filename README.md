@@ -46,6 +46,7 @@ Author - Vaishnavi Dhomane
 | [0238-product-of-array-except-self](https://github.com/Vaishnavidhomane/first-demo/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Vaishnavidhomane/first-demo/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavidhomane/first-demo/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -136,6 +137,7 @@ Author - Vaishnavi Dhomane
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaishnavidhomane/first-demo/tree/main/0217-contains-duplicate/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
