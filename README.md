@@ -49,6 +49,7 @@ Author - Vaishnavi Dhomane
 | [0485-max-consecutive-ones](https://github.com/Vaishnavidhomane/first-demo/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavidhomane/first-demo/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0941-valid-mountain-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavidhomane/first-demo/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vaishnavidhomane/first-demo/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
