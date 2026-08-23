@@ -52,6 +52,7 @@ Author - Vaishnavi Dhomane
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavidhomane/first-demo/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vaishnavidhomane/first-demo/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaishnavidhomane/first-demo/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ Author - Vaishnavi Dhomane
 | [0876-middle-of-the-linked-list](https://github.com/Vaishnavidhomane/first-demo/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +134,7 @@ Author - Vaishnavi Dhomane
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaishnavidhomane/first-demo/tree/main/0217-contains-duplicate/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +165,7 @@ Author - Vaishnavi Dhomane
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavidhomane/first-demo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaishnavidhomane/first-demo/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +184,7 @@ Author - Vaishnavi Dhomane
 | [0414-third-maximum-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
