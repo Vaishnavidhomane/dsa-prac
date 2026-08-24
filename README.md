@@ -49,6 +49,7 @@ Author - Vaishnavi Dhomane
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Vaishnavidhomane/first-demo/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Vaishnavidhomane/first-demo/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/Vaishnavidhomane/first-demo/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -175,6 +176,7 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaishnavidhomane/first-demo/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Vaishnavidhomane/first-demo/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Vaishnavidhomane/first-demo/tree/main/0724-find-pivot-index/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaishnavidhomane/first-demo/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
