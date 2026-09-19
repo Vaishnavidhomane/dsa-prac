@@ -41,6 +41,7 @@ Author - Vaishnavi Dhomane
 | [0152-maximum-product-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Vaishnavidhomane/first-demo/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishnavidhomane/first-demo/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Vaishnavidhomane/first-demo/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaishnavidhomane/first-demo/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vaishnavidhomane/first-demo/tree/main/0217-contains-duplicate/) | Easy |
@@ -138,6 +139,7 @@ Author - Vaishnavi Dhomane
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavidhomane/first-demo/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vaishnavidhomane/first-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/Vaishnavidhomane/first-demo/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaishnavidhomane/first-demo/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -184,10 +186,12 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Vaishnavidhomane/first-demo/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Vaishnavidhomane/first-demo/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaishnavidhomane/first-demo/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -212,9 +216,14 @@ Author - Vaishnavi Dhomane
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Vaishnavidhomane/first-demo/tree/main/0169-majority-element/) | Easy |
 | [1051-height-checker](https://github.com/Vaishnavidhomane/first-demo/tree/main/1051-height-checker/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Vaishnavidhomane/first-demo/tree/main/1051-height-checker/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Vaishnavidhomane/first-demo/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
