@@ -4,20 +4,32 @@ class Solution {
         int j=n-1;
         int k=m+n-1;
 
-        while(j>=0){
+        while(k>=0){
+            if(j<0){
+                break;
+            }
             if(i>=0 && nums1[i]>nums2[j]){
                 nums1[k]=nums1[i];
-                k--;
+                
                 i--;
 
             }
             else{
                 nums1[k]=nums2[j];
-                k--;
+                
                 j--;
 
             }
+             k--;
         }
-        
+       
+      
     }
 }
+
+//for(int i=0;i<n;i++){                     brute force
+// nums[i+m]=nums2[i];
+// }
+// Arrays.sort(nums1)
+// }
+// }
