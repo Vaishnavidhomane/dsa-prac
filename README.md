@@ -36,6 +36,7 @@ Author - Vaishnavi Dhomane
 | [0042-trapping-rain-water](https://github.com/Vaishnavidhomane/first-demo/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Vaishnavidhomane/first-demo/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Vaishnavidhomane/first-demo/tree/main/0055-jump-game/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavidhomane/first-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0136-single-number/) | Easy |
@@ -98,6 +99,7 @@ Author - Vaishnavi Dhomane
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Vaishnavidhomane/first-demo/tree/main/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
@@ -151,6 +153,7 @@ Author - Vaishnavi Dhomane
 | [0022-generate-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Vaishnavidhomane/first-demo/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Vaishnavidhomane/first-demo/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavidhomane/first-demo/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Vaishnavidhomane/first-demo/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
