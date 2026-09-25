@@ -64,6 +64,7 @@ Author - Vaishnavi Dhomane
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vaishnavidhomane/first-demo/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vaishnavidhomane/first-demo/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaishnavidhomane/first-demo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Author - Vaishnavi Dhomane
 | [0905-sort-array-by-parity](https://github.com/Vaishnavidhomane/first-demo/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaishnavidhomane/first-demo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@ Author - Vaishnavi Dhomane
 | [0209-minimum-size-subarray-sum](https://github.com/Vaishnavidhomane/first-demo/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaishnavidhomane/first-demo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +217,7 @@ Author - Vaishnavi Dhomane
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavidhomane/first-demo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Vaishnavidhomane/first-demo/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vaishnavidhomane/first-demo/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vaishnavidhomane/first-demo/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
